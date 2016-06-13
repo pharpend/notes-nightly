@@ -17,7 +17,7 @@ cleanup () {
 JLT_EBOOK=`date -u +"jltnotes-nightly-ebook-%Y-%m-%d.pdf"`
 JLT_PRINT=`date -u +"jltnotes-nightly-print-%Y-%m-%d.pdf"`
 # Where the notes are stored
-JLTDIR=/usr/share/nginx/notes.harpending.org/math2280
+JLTDIR=/usr/share/nginx/notes.harpending.org/math3220
 # Start in home directory
 cd
 # Clone repo
